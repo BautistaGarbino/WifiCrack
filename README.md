@@ -10,13 +10,9 @@ El segundo modo de ataque, es el **PKMID ClientLess Attack**, que centra su aten
 
 Pues bueno... la herramienta cuenta con 2 parámetros, por un lado el parámetro '-a' para especificar el modo de ataque (Handshake|PKMID) y por otro lado el parámetro '-n' para especificar el nombre de la tarjeta de red.
 
-De todas formas, la herramienta cuenta con un panel de ayuda tras su ejecución:
+De todas formas, la herramienta cuenta con un panel de ayuda tras su ejecución.
 
-
-┌─[root@parrot]─[/home/sz00m/Desktop/Directo]
-└──╼ #./PwnWifi.sh 
-
-[*] Uso: ./PwnWifi.sh
+Uso: ./PwnWifi.sh
 
         a) Modo de ataque
                 Handshake
